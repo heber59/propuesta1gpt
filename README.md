@@ -6,7 +6,7 @@ dia 3 Gestión de Estado y Manejo de Eventos.\
 dia 4 Persistencia de Datos.\
 dia 5 Estilización.\
 dia 6 Funcionalidades Adicionales.\
-dia 7 Pruebas y Mejora.\
+dia 7 Pruebas y Mejora
 
 notas...proximamente
  
