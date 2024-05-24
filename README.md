@@ -12,6 +12,7 @@ dia 7 Pruebas y Mejora
  NOTAS:
  😴 Dia 2 no dia tiempo al proyecto
  ⏱ Dia 3 30 minutos hasta donde llegue
+  estoy colgado con los estilos, eso se ve muy feo. 
 ### `npm start`
 
 Runs the app in the development mode.\
