@@ -8,8 +8,10 @@ dia 5 Estilización.\
 dia 6 Funcionalidades Adicionales.\
 dia 7 Pruebas y Mejora
 
-notas...proximamente
- 
+
+ NOTAS:
+ 😴 Dia 2 no dia tiempo al proyecto
+ ⏱ Dia 3 30 minutos hasta donde llegue
 ### `npm start`
 
 Runs the app in the development mode.\
